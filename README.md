@@ -1,1 +1,1 @@
-# ReduxSimpleStarter
+# ReduxSimpleStarter => video app
